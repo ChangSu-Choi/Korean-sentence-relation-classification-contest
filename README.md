@@ -1,0 +1,1 @@
+# Korean-sentence-relation-classification-contest

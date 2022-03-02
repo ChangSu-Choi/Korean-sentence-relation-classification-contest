@@ -1,4 +1,4 @@
-## Top 5.20 %  Acc 0.87394
+## Top 5.20% - Acc 0.87394
 ### Team: 무적NLP https://dacon.io/competitions/official/235875/leaderboard
 # Project  
 + Title: 한국어 문장 관계 분류 경진대회
